@@ -1,0 +1,62 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+}
+
+.main-content {
+
+}
+
+.about-me {
+
+}
+
+.skills-and-endorsements {
+
+}
+
+.languages {
+
+}
+
+span {
+  font-size: 12px;
+  font: bold;
+  color: #000000;
+}
+
+.work-experience {
+  
+}
+
+.fifth-work-experience {
+
+}
+
+.fourth-work-experience {
+
+}
+
+.third-work-experience {
+
+}
+
+.second-work-experience {
+
+}
+
+.first-work-experience {
+  
+}
+
+/* .about-me-profession {
+  font-size: 14px;
+  font-weight: 700px;
+  color: #000000;
+} */
